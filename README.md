@@ -1,1 +1,1 @@
-# Cal-Hacks-2018
+# hackathon
